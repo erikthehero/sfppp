@@ -1,2 +1,2 @@
-# ShortBaseline
-Various c++ programs to retrieve noise figures in a short baseline two receiver setup
+# sfppp
+Single frequency ppp solution.
